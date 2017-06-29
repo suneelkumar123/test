@@ -1,0 +1,14 @@
+{
+"form": {
+    "fields" : [
+            {
+                "field":"textfield",
+                "name": "username"
+            },
+            { 
+                "field":"textfield",
+                "name": "password"
+            },
+        ]    
+  }
+}
